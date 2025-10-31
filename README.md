@@ -1,7 +1,7 @@
 # [WiSe25-26] ChatBot-Projekt 
 # Group 23
 
-A chatbot application developed as part of the first-semester project In DigiTec programm. The chatbot can answer questions, provide weather information, compare temperatures, and even play a trivia game
+A chatbot application developed as part of the first-semester project in the DigiTec program. The chatbot can answer questions, provide weather information, compare temperatures, and even play a trivia game.
 
 ## 🎯 Purpose
 
@@ -61,40 +61,40 @@ This project is a chatbot application designed to:
 ### Installation Steps
 
 Chatbot Interaction
-Run the Chatbot application using this line of command : "python main.py"
+Run the Chatbot application using this line of command: "python main.py"
 Ask questions directly to the chatbot.
-Ask the chatbot coumpound questions.
+Ask the chatbot compound questions.
 Use the --show option to list all available questions.
 Add or remove questions using the --add and --remove options.
 Play the trivia game by typing "trivia".
 Weather Information
-Ask the chatbot about the weather in a specific location while runing the application:
+Ask the chatbot about the weather in a specific location while running the application:
 
-For example :"What is the weather in Wolfenbüttel"
+For example: "What is the weather in Wolfenbüttel?"
 
-Add and remove Questions/Answers
-Adding question with the answer:
+Add and remove Questions/Answers.
+Adding a question with the answer:
 
 python main.py --add --q "Question" --answer "Answer"
 Adding another answer to an existing question:
 
 python main.py --add --q "Existing question" --answer "New answer"
-Remove a specified answer form a question:
+Remove a specified answer from a question:
 
 python main.py --remove --q "Existing question" --answer "Specified answer"
 Remove an entire Question:
 
 python main.py --remove --q "Existing question"
 List all questions
-To list all qustions:
+To list all questions:
 
-python main.py --show "show all questions"
+Python main.py --show "show all questions"
 Web Scrapping
-To scrape a specified web site you should run this line of command:
+To scrape a specified website, you should run this line of command:
 
-python main.py --scrape "url"
+Python main.py --scrape "url"
 Graphical user interface
-To run th application using the GUI:
+To run the application using the GUI:
 
 python "graphical_user_interface.py"
 
@@ -104,7 +104,7 @@ Logs are stored in app.log for debugging and monitoring.
 
 ## 📄 License
 
-This project is not licensed but made for educational purpose as a project to prepare Chatbot with different features.
+This project is not licensed; it is made for educational purposes to prepare a Chatbot with different features.
 
 ## 🆘 Support
 
