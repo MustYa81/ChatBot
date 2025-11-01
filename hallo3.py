@@ -24,7 +24,7 @@ def main():
             break
         
         # Repeat the user's input
-        print_message(user_input)
+        # print_message(user_input)
 
 if __name__ == "__main__":
     main()
