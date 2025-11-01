@@ -13,42 +13,6 @@ This project is a chatbot application designed to:
 - Play a fun trivia game.
 - Log errors and user interactions for debugging and monitoring purposes.
 
-## 🚀 Features
-
-### Pages & Functionality
-
-1. **Home Page (`/`)**
-   - Waste pickup request form
-   - Form validation (with intentional flaws)
-   - Success message display
-
-2. **Dashboard (`/dashboard`)**
-   - Table of all pickup requests
-   - Filtering by status and location
-   - Status badges and responsive design
-
-3. **Feedback Page (`/feedback`)**
-   - Report missed pickups
-   - Feedback submission form
-   - Request ID validation
-
-4. **Awareness Page (`/awareness`)**
-   - Educational content about waste management
-   - Images with missing alt-text (accessibility testing)
-   - Responsive grid layout
-
-5. **Admin Panel (`/admin`)**
-   - Request management interface
-   - Status update functionality
-   - Data persistence testing
-
-## 🛠️ Tech Stack
-
-- **Frontend**: React 18.2.0
-- **Routing**: React Router DOM 6.3.0
-- **Styling**: CSS3 with responsive design
-- **Data Storage**: localStorage (no backend required)
-- **Testing**: React Testing Library (included)
 
 ## 📦 Installation & Setup
 
