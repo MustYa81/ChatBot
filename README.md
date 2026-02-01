@@ -1,13 +1,10 @@
 # ChatBot Projekt 23 
 **Ostfalia / TU Clausthal – Wintersemester 2025/26**
 
-Ein modularer, regelbasierter Chatbot für die Kommandozeile mit:
-- **FAQ/Wissensbasis** (JSON + CSV-Import)
-- **Trivia-Spiel** (Multiple Choice aus JSON)
-- **Wetter** über OpenWeather (aktuell + 5‑Tage/≈5‑Tage Vorhersage)
-- **Temperatur-Accuracy-Report**: Sense HAT Log vs. OpenWeather Log (Δ pro Tag)
+Ein modularer, regelbasierter deutschsprachiger Chatbot mit erweiterten Funktionen:  
+Fragen-Antwort-System, Wetterabfragen, Trivia-Spiel, Temperaturvergleich (Sense HAT vs. OpenWeather) und Service-Provider-Tools.
 
-> Dieses README ist an den aktuellen CLI-Stand aus `main.py` angepasst.
+Projekt im Rahmen des Moduls [Interdisziplinäres Digitalisierungsprojekt 1] – Team ChatBot-23.
 
 
 ## Inhaltsverzeichnis
